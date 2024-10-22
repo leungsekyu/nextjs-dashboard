@@ -1,0 +1,17 @@
+.shape {
+  height: 0;
+  width: 0;
+  border-bottom: 26px solid black;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+}
+
+.square {
+  height: 26px;
+  width: 26px;
+  background-color: pink;
+  border-bottom: 5px solid black;
+  border-top: 5px solid red;
+  border-left: 5px solid red;
+  border-right: 5px solid red;
+}
